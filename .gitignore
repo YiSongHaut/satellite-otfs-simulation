@@ -1,0 +1,12 @@
+﻿# Local results and reference material
+*.mat
+*.fig
+*.pdf
+*.asv
+article_page-*.png
+otfs_fig3_*/
+otfs_nmse_results/
+otfs_profile_comparison/
+.matlab_pref/
+.matlab_preferences/
+MathWorks/
